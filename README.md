@@ -13,5 +13,16 @@ API for a Google Keep-esque note-taking web app
     ```
 * Then, Git clone this repo to your PC
     ```bash
-        $ git clone [https://github.com/gitgik/django-rest-api.git](https://github.com/JoeyFrancis/API_Django.git)https://github.com/JoeyFrancis/API_Django.git
+        $ git clone https://github.com/JoeyFrancis/API_Django.git
     ```
+
+* #### Run It
+    Fire up the server using this one simple command:
+    ```bash
+        $ python manage.py runserver
+    ```
+    You can now access the file api service on your browser by using
+    ```
+        http://localhost:8000/auth/
+    ```
+
