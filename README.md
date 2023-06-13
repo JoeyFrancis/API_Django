@@ -1,4 +1,4 @@
-# API_Django
+# NOTE-API-DJANGO
 API for a Google Keep-esque note-taking web app
 
 ## Technologies used
